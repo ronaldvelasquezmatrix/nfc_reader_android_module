@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFCReader</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_fav">Favorites</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_nfc">NFC</string>
+</resources>
